@@ -1,5 +1,4 @@
-# About Me:
-Praise the Sun!
+# Praise the Sun!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyerin.arch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhritiman-das-01bba3422) [![Discord](https://img.shields.io/badge/Discord-eyerin.arch-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/791226627077308417) [![Backloggd](https://img.shields.io/badge/Backloggd-eyerin-%23101010.svg?logo=backloggd&logoColor=white)](https://backloggd.com/u/eyerin)
 # 💻 Tech Stack:
