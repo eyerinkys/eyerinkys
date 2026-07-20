@@ -8,7 +8,7 @@
 
 </td>
 <td width="160">
-<img data-importer="image" width="150" src="https://media1.tenor.com/m/M_vlmE6mJ9oAAAAC/knight-solar.gif" />
+<img data-importer="image" width="150" src="https://giphy.com/gifs/bare-fists-LLvqxmK3gOXLy" />
 </td>
 </tr>
 </table>
