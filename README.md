@@ -2,8 +2,10 @@
 
 <img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVzNTFkOW40Z2EyZndsZnEydzk1NjhhNDZjZjB0Ym9kdXk2c2VoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 
-
 # Full-Stack Dev | Embedded Systems | Cybersecurity | AI/ML Enthusiast | Hackathon Winner | Photographer
+
+<br clear="both">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyerin.arch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhritiman-das-01bba3422) [![Discord](https://img.shields.io/badge/Discord-eyerin.arch-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/791226627077308417) [![Backloggd](https://img.shields.io/badge/Backloggd-eyerin-%23101010.svg?logo=backloggd&logoColor=white)](https://backloggd.com/u/eyerin)
 # 💻 Tech Stack:
@@ -12,4 +14,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=eyerinkys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=0)<br/>
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=eyerinkys&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eyerinkys&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
-
