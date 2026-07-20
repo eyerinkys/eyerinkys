@@ -8,7 +8,7 @@
 
 </td>
 <td width="160">
-<img data-importer="image" width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVzNTFkOW40Z2EyZndsZnEydzk1NjhhNDZjZjB0Ym9kdXk2c2VoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
+<img data-importer="image" width="150" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVzNTFkOW40Z2EyZndsZnEydzk1NjhhNDZjZjB0Ym9kdXk2c2VoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif](https://media1.tenor.com/m/M_vlmE6mJ9oAAAAC/knight-solar.gif)" />
 </td>
 </tr>
 </table>
