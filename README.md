@@ -7,8 +7,8 @@
 # Full-Stack Dev | Embedded Systems | Cybersecurity | AI/ML Enthusiast | Hackathon Winner | Photographer
 
 </td>
-<td width="160">
-<img data-importer="image" width="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN5dWpyNWE1cG40b2VxOXV4am02OGd5cXpxa3U0dDV0ZjNsc2hhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLvqxmK3gOXLy/giphy.gif" />
+<td width="230">
+<img data-importer="image" width="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN5dWpyNWE1cG40b2VxOXV4am02OGd5cXpxa3U0dDV0ZjNsc2hhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLvqxmK3gOXLy/giphy.gif" />
 </td>
 </tr>
 </table>
